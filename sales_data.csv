@@ -1,0 +1,16 @@
+Date,Product,Region,Sales,Profit,Discount,Category
+2024-01-01,Laptop,North,1200,200,0.1,Electronics
+2024-01-02,Tablet,South,800,150,0.15,Electronics
+2024-01-03,Smartphone,East,1500,300,0.2,Electronics
+2024-01-04,TV,West,2000,500,0.05,Electronics
+2024-01-05,Headphones,North,300,50,0.1,Accessories
+2024-01-06,Keyboard,South,150,30,0.05,Accessories
+2024-01-07,Mouse,East,100,20,0.05,Accessories
+2024-01-08,Camera,West,1700,400,0.1,Electronics
+2024-01-09,Monitor,North,900,180,0.2,Electronics
+2024-01-10,Speaker,South,400,90,0.15,Accessories
+2024-01-11,Smartwatch,East,700,120,0.1,Wearables
+2024-01-12,Printer,West,1300,250,0.05,Electronics
+2024-01-13,Charger,North,80,15,0.2,Accessories
+2024-01-14,Router,South,600,100,0.1,Networking
+2024-01-15,Hard Drive,East,500,90,0.15,Storage
